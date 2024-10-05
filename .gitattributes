@@ -1,0 +1,14 @@
+insightface/inswapper_128.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models filter=lfs diff=lfs merge=lfs -text
+insightface/models/antelopev2 filter=lfs diff=lfs merge=lfs -text
+insightface/models/buffalo_l filter=lfs diff=lfs merge=lfs -text
+insightface/models/antelopev2/1k3d68.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/antelopev2/2d106det.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/buffalo_l/genderage.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/antelopev2/genderage.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/antelopev2/glintr100.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/antelopev2/scrfd_10g_bnkps.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/buffalo_l/1k3d68.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/buffalo_l/2d106det.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/buffalo_l/det_10g.onnx filter=lfs diff=lfs merge=lfs -text
+insightface/models/buffalo_l/w600k_r50.onnx filter=lfs diff=lfs merge=lfs -text
